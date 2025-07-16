@@ -1,5 +1,1 @@
-nginx
-#支持私库
-ghcr.io/open-webui/open-webui:cuda
-#支持指定架构
-# --platform=linux/amd64 ghcr.io/open-webui/open-webui:cuda
+ghcr.io/conardli/easy-dataset
